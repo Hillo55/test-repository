@@ -13,10 +13,9 @@ this is a test description
     - Readme
     - Readme
     - Readme
-! https://th.bing.com/th/id/R.d7e104d5cbdfe255a3349f8fd931d1fa?rik=QKvRuG4A5W1arQ&pid=ImgRaw&r=0
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis a condimentum vitae sapien pellentesque.
 
-! [Github logo](https://th.bing.com/th/id/R.d7e104d5cbdfe255a3349f8fd931d1fa?rik=QKvRuG4A5W1arQ&pid=ImgRaw&r=0)
+![ananas](https://pngimg.com/uploads/pineapple/pineapple_PNG2728.png)
 
 
